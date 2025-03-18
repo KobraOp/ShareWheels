@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShareWheels</string>
+    <string name="why_ride_alone_explore_10_new_ways_to_travel">Why ride alone explore \nnew ways to travel</string>
+    <string name="cont">Continue</string>
+    <string name="terms">By clicking continue you are agree with the Terms and Condition.</string>
+    <string name="back">Back</string>
+    <string name="enter_phone_number_10_to_get_verified">Enter Email Address to get \nverified</string>
+    <string name="comm">Your entered email address is being used to \ncommunicate with you during the ride.</string>
+    <string name="country_flag">country_flag</string>
+    <string name="l1">Enter your details to complete \nyour profile</string>
+    <string name="l2">Enter your complete details to provide us a good \nservice to you.</string>
+</resources>
